@@ -2,4 +2,4 @@
 Personal Developer Portfolio
 
 Hey there!
-This portfolio is still compiling—optimizing for creativity takes a bit longer than expected. Grab a coffee, and it'll be worth the wait!
+Just a little something i'd made to try and provide some more background on me. Feel free to fork this and modify however you'd like 😊
