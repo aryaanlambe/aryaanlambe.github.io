@@ -15,6 +15,15 @@ body {
   background: transparent;
 }
 
+.bluesky {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('/assets/img/bluesky-11.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 body::before {
   content: "";
   position: fixed;
@@ -139,6 +148,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .social-links a.google:hover {
   background: #DB4437; /* Google red */
+}
+
+#header .social-links a.bluesky:hover {
+  background: #1185FE; /* BlueSky Blue */
 }
 
 @media (max-width: 992px) {
