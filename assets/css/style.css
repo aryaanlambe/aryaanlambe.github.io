@@ -17,8 +17,8 @@ body {
 
 .bluesky {
   display: inline-block;
-  width: 24px;
-  height: 24px;
+  width: 14px;
+  height: 14px;
   background-image: url('/assets/img/bluesky-11.svg');
   background-size: contain;
   background-repeat: no-repeat;
